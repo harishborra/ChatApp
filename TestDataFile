@@ -1,0 +1,30 @@
+-----login tags-------------
+<LOGIN>user0001</LOGIN>
+<LOGIN>user0002</LOGIN>
+<LOGIN>user0003</LOGIN>
+<LOGIN>user0004</LOGIN>
+<LOGIN>user0005</LOGIN>
+<LOGIN>user0006</LOGIN>
+
+-----loginlist_tags-------
+<LOGIN_LIST></LOGIN_LIST>
+
+
+
+<INFO>Hii all</INFO>
+
+-----logout--------------
+<LOGOUT></LOGOUT>
+
+----------------message,body,from,to tags---------------------------------
+<MSG><FROM>user0001</FROM><TO>user0002</TO><ENCODE>CRC</ENCODE><BODY>Source code represents the part of process that contains the programming language itself. You may use a text editor to write your source code file. A compiler will be used to produce a machine representation of your source code. Such may show your code as hexadecimal or binary formats. The resulting hexadecimal code will contain combinations of numbers such 1 3 5 8 2 4 6 9 12 21 13 31 14 41 15 51 16 61 17 71 18 81 19 91 100 or combinations of characters and numbers such as 1A3B4C0DEFA, for example</BODY></MSG>
+
+<MSG><FROM>user0002</FROM><TO>user0001</TO><BODY>HIII...user0001.....</BODY></MSG>
+
+<MSG><FROM>user0004</FROM><TO>user0003</TO><BODY>HIII...user0001.....</BODY></MSG>
+
+
+
+
+
+
